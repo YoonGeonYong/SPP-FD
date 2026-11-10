@@ -1,0 +1,5 @@
+# Versions the code was developed and checked with (Python 3.12).
+torch==2.10.0
+torchvision==0.25.0
+numpy==2.4.1
+scikit-learn==1.8.0
